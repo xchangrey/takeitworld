@@ -1,2 +1,2 @@
 # takeitworld
-A ticketing app build using micro services technology
+A ticketing app built using micro services technologies.
